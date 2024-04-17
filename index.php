@@ -26,7 +26,7 @@
                 
                 <div class="place_cards_holder">
                     <div class="place_card">
-                        <a href="beginner.html"><h3>BEGINNER</h3></a> 
+                        <a href="beginner.php"><h3>BEGINNER</h3></a> 
                     </div>
                     <div class="place_card">
                         <a href="intermediate.html"><h3>INTERMEDIATE</h3></a> 
