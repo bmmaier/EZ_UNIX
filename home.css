@@ -130,6 +130,32 @@ h4 {
     text-decoration: underline;
 }
 
+.intro_text {
+    text-align: center;
+    padding: 20px 20%;
+}
+
+.tutorial_content {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.tutorial_content p {
+    padding-top: 10px;
+}
+
+.os {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.congrats {
+    text-align: center;
+    padding: 20px 20%;
+    font-weight: bolder;
+    font-size: larger;
+}
+
 /* Additional Place Cards Holder */
 .additional_place_cards_holder {
     display: flex;
